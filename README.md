@@ -19,17 +19,16 @@
   <br>
 
   <h1 align="center">Redes Sociais</h1>
-    &emsp; 
-    <a href="https://github.com/ArthurGamaJorge" target="_blank"> Conta principal
-      <img width="30" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png">
+    &emsp; <a href = "mailto: arthurgamajorgetec@gmail.com" target="_blank"> arthurgamajorgetec@gmail.com 
+      <img width="30" src="https://github.com/ArthurGamaJorge/ArthurGamaJorge/assets/129080603/cfb84f61-fe26-4c51-827e-2088fd3e7863">
     </a>
   <br>
-      <a href = "mailto: arthurgamajorgetec@gmail.com" target="_blank"> arthurgamajorgetec@gmail.com 
-      <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%282015-2020%29.svg/2560px-Logo_Gmail_%282015-2020%29.svg.png">
-    </a>
-  <br> 
      <a href = "https://discordapp.com/users/659238913227096085" target="_blank"> Ronin_Kanmuri#5566      
       <img width="30" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png">
+    </a>
+  <br>
+    <a href="https://github.com/ArthurGamaJorge" target="_blank"> Conta principal
+      <img width="30" src="https://github.com/ArthurGamaJorge/ArthurGamaJorge/assets/129080603/f0beda54-acf8-4b21-be66-860611261826">
     </a>
 
 </div>
