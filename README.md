@@ -1,4 +1,4 @@
-## Arthur Gama Jorge
+## Arthur Gama Jorge 👋
 
 <div>
   
@@ -19,7 +19,7 @@
   
   <br>
 
-  <h1 align="center">Redes Sociais</h1>
+  <h1 align="center"> Redes Sociais</h1>
     &emsp; <a href = "mailto: arthurgamajorgetec@gmail.com" target="_blank"> arthurgamajorgetec@gmail.com 
       <img width="30" src="https://github.com/ArthutJorge/ArthutJorge/assets/141682121/bd464957-27fd-4bc5-afba-70965fd71e29">
     </a>
