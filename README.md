@@ -21,15 +21,15 @@
 
   <h1 align="center"> Redes Sociais</h1>
     &emsp; <a href = "mailto: arthurgamajorgetec@gmail.com" target="_blank"> arthurgamajorgetec@gmail.com 
-      <img width="30" src="https://github.com/ArthutJorge/ArthutJorge/assets/141682121/bd464957-27fd-4bc5-afba-70965fd71e29">
+      <img width="25" src="https://github.com/user-attachments/assets/739cab76-3271-4d9d-8fa5-b1ccd6a1a380" />
     </a>
   <br>
      <a href = "https://discordapp.com/users/659238913227096085" target="_blank"> Ronin_Kanmuri#5566      
-      <img width="30" src="https://github.com/ArthutJorge/ArthutJorge/assets/141682121/7b5f1a84-e67b-4bad-ba24-b160cbb5afef">
+       <img width="25" src="https://github.com/user-attachments/assets/128e1eb2-2030-41fe-8b6d-2bc55e482c9c" />
     </a>
   <br>
     <a href="https://github.com/ArthurGamaJorge" target="_blank"> Conta principal
-      <img width="30" src="https://github.com/ArthutJorge/ArthutJorge/assets/141682121/b717c103-8786-4c66-a66d-5d50df122769">
+      <img width="20" src="https://github.com/user-attachments/assets/7172a6bd-bdb6-4cb5-9836-323b56eef8c1" />
     </a>
 
 </div>
